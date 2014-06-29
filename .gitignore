@@ -1,0 +1,8 @@
+.DS_Store
+/.grunt/
+/build/
+/dist/
+/node_modules/
+/pakcage/
+/*.tgz
+/*.log
